@@ -1,7 +1,7 @@
 # HomeDesign
 proyect of system contruction control with report of the plain and cost of the contruction proyect, is developer in python with flask framework and mysql data base
--requirement deployment
--- mysql 5.2>=
+#requirement deployment
+## mysql 5.2>=
 -- python 2.7>=
 -- flask framework
 -- jinja2 template engine
