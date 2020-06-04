@@ -37,5 +37,5 @@ instalar mysql
 ```
 correr app.py con commando python app.py
 ```
-#autor
+# autor
 * **Carlos A. Jimenez**
